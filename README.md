@@ -5,8 +5,8 @@ I am **Gunther Voet** (`@gowildchild`) an open-source software developer, system
 ## Open-Source & Active Software Projects
 
 ### Protocols, AI & Cryptography
-* **[Existenz](https://github.com/gowildchild/Existenz)** — A sub-milliwatt, 128-bit protocol and mathematical framework mapping human rights and threat vectors into deterministic bitmasks ([Live Simulator](https://gowildchild.github.io) · [Portal](https://git.gowildchild.com)).
-* **[Existenz.AI](https://amitville.com)** — An AI architecture integrating the *Existenz* protocol as a core reasoning layer, live at [amitville.com](https://amitville.com).
+* **[Existenz](https://github.com/gowildchild/Existenz)** — A sub-milliwatt, 128-bit protocol and mathematical framework mapping human rights and threat vectors into deterministic bitmasks ([Live Simulator](https://gowildchild.github.io/Existenz) · [Portal](https://git.gowildchild.com)).
+* **[Existenz.AI](https://amitville.com)** — An AI architecture integrating the *Existenz* protocol as a core reasoning layer, the philosophers stone, live at [amitville.com](https://amitville.com).
 * **[BitlifeCrisis](https://github.com/gowildchild/BitlifeCrisis)** — A universal, stateless, sub-milliwatt bitstream context library designed for portability across Python, Berry, Forth, Lua, and eBPF.
 * **[SesamID](https://github.com/gowildchild/SesamID)** — A custom Perl-engineered multi-factor authentication platform originally designed in 2007, released in 2011, stolen at 2012.
 * **[TACO (Trusted Active Crypto Objects)](https://github.com/gowildchild/TACO)** — A cryptographic perimeter and active object security architecture.
