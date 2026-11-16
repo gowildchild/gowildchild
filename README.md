@@ -1,6 +1,6 @@
-# Gunther Voet (`@gowildchild`) — Open-Source Developer & Protocol Architect
+# Freaking Wildchild (`@gowildchild`) — Open-Source Developer & Protocol Architect
 
-I am **Gunther Voet** (`@gowildchild`), an open-source software developer, systems architect and technical writer based in Belgium. My work focuses on low-power protocols, deterministic cryptography, digital preservation and assistive automation, documented across [autiboi.be](https://autiboi.be) and [GitHub (@gowildchild)](https://github.com/gowildchild). Probably I will be splitting the blog in 2 parts when I got time for it, one to help neurodivergent people and the other one with technical lingo. 
+I am **Gunther Voet** (`@gowildchild`) an open-source software developer, systems architect and technical writer based in Belgium. My work focuses on low-power protocols, deterministic cryptography, digital preservation and assistive automation, documented across [autiboi.be](https://autiboi.be) and [GitHub (@gowildchild)](https://github.com/gowildchild). Probably I will be splitting the blog in 2 parts later, one to help neurodivergent people and the other one with technical lingo. 
 
 ## Open-Source & Active Software Projects
 
